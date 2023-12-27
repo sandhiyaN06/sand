@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color:darkorchid;
+}
+h3{
+    color: deeppink;
+}
+p{
+    color:crimson;
+    text-transform: capitalize;
+    font-size: larger;
+    font-weight: 500;
+}
+table{
+    width:100%;
+}
